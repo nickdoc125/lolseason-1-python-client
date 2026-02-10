@@ -1,0 +1,7 @@
+{
+    "league_path": "./Fishbones_Data/playable_client_126",
+    "server_path": "./Fishbones_Data/ChildrenOfTheGrave-Gameserver/ChildrenOfTheGraveServerConsole/bin/Debug/net9.0/ChildrenOfTheGraveServerConsole.exe",
+    "game_port": 5119,
+    "bat_output_path": ".\\Fishbones_Data\\playable_client_126\\connect.bat",
+    "runes_editor_path": "./data/runes/Runes Calculator.exe"
+}

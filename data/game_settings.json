@@ -1,0 +1,16 @@
+{
+  "game_modes": [
+    "CLASSIC",
+    "ARAM",
+    "ODIN"
+  ],
+  "maps": [
+    "Summoner's Rift",
+    "Harrowing Rift",
+    "Proving Grounds",
+    "Twisted Treeline",
+    "Winter Rift",
+    "Crystal Scar",
+    "Howling Abyss"
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "champions": {
+    "Akali": {
+      "champion_id": "Akali",
+      "skins": {
+        "Default": 0,
+        "Stinger Akali": 1,
+        "Crimson Akali": 2,
+        "All-star Akali": 3,
+        "Nurse Akali": 4,
+        "Blood Moon Akali": 5
+      },
+      "condition": "w"
+    },
+    "Alistar": {
+      "champion_id": "Alistar",
+      "skins": {
+        "Default": 0,
+        "Black Alistar": 1,
+        "Golden Alistar": 2,
+        "Matador Alistar": 3,
+        "Longhorn Alistar": 4,
+        "Unchained Alistar": 5
+      },
+      "condition": "w"
+    },
+    "Amumu": {
+      "champion_id": "Amumu",
+      "skins": {
+        "Default": 0,
+        "Pharaoh Amumu": 1,
+        "Vancouver Amumu": 2,
+        "Emumu": 3,
+        "Re-Gifted Amumu": 4,
+        "Almost-Prom King Amumu": 5,
+        "Little Knight Amumu": 6
+      },
+      "condition": "w"
+    },
+    "Annie": {
+      "champion_id": "Annie",
+      "skins": {
+        "Default": 0,
+        "Goth Annie": 1,
+        "Red Riding Annie": 2,
+        "Annie in Wonderland": 3,
+        "Prom Queen Annie": 4,
+        "Frostfire Annie": 5,
+        "Reverse Annie": 6
+      },
+      "condition": "w"
+    },
+    "Blitzcrank": {
+      "champion_id": "Blitzcrank",
+      "skins": {
+        "Default": 0,
+        "Rusty Blitzcrank": 1,
+        "Goalkeeper Blitzcrank": 2,
+        "Boom Boom Blitzcrank": 3,
+        "Piltover Customs Blitzcrank": 4
+      },
+      "condition": "w"
+    },
+    "Brand": {
+      "champion_id": "Brand",
+      "skins": {
+        "Default": 0,
+        "Apocalyptic Brand": 1,
+        "Vandal Brand": 2,
+        "Cryocore Brand": 3
+      },
+      "condition": "w"
+    },
+    "Caitlyn": {
+      "champion_id": "Caitlyn",
+      "skins": {
+        "Default": 0,
+        "Resistance Caitlyn": 1,
+        "Sheriff Caitlyn": 2,
+        "Safari Caitlyn": 3,
+        "Arctic Warfare Caitlyn": 4,
+        "Officer Caitlyn": 5
+      },
+      "condition": "w"
+    },
+    "Cassiopeia": {
+      "champion_id": "Cassiopeia",
+      "skins": {
+        "Default": 0,
+        "Desperada Cassiopeia": 1,
+        "Siren Cassiopeia": 2
+      },
+      "condition": "w"
+    },
+    "Corki": {
+      "champion_id": "Corki",
+      "skins": {
+        "Default": 0,
+        "UFO Corki": 1,
+        "Ice Toboggan Corki": 2,
+        "Red Baron Corki": 3,
+        "Hot Rod Corki": 4,
+        "Urfrider Corki": 5
+      },
+      "condition": "w"
+    },
+    "Ezreal": {
+      "champion_id": "Ezreal",
+      "skins": {
+        "Default": 0,
+        "Nottingham Ezreal": 1,
+        "Striker Ezreal": 2,
+        "Frosted Ezreal": 3,
+        "Explorer Ezreal": 4
+      },
+      "condition": "w"
+    },
+    "Fiddlesticks": {
+      "champion_id": "Fiddlesticks",
+      "skins": {
+        "Default": 0,
+        "Spectral Fiddlesticks": 1,
+        "Union Jack Fiddlesticks": 2,
+        "Bandito Fiddlesticks": 3,
+        "Pumpkinhead Fiddlesticks": 4,
+        "Fiddle Me Timbers": 5
+      },
+      "condition": "w"
+    },
+    "Galio": {
+      "champion_id": "Galio",
+      "skins": {
+        "Default": 0,
+        "Enchanted Galio": 1,
+        "Hextech Galio": 2,
+        "Commando Galio": 3
+      },
+      "condition": "w"
+    },
+    "Gangplank": {
+      "champion_id": "Gangplank",
+      "skins": {
+        "Default": 0,
+        "Spooky Gangplank": 1,
+        "Minuteman Gangplank": 2,
+        "Sailor Gangplank": 3
+      },
+      "condition": "w"
+    },
+    "Garen": {
+      "champion_id": "Garen",
+      "skins": {
+        "Default": 0,
+        "Sanguine Garen": 1,
+        "Desert Trooper Garen": 2,
+        "Commando Garen": 3,
+        "Dreadknight Garen": 4,
+        "Rugged Garen": 5
+      },
+      "condition": "w"
+    },
+    "Irelia": {
+      "champion_id": "Irelia",
+      "skins": {
+        "Default": 0,
+        "Nightblade Irelia": 1,
+        "Aviator Irelia": 2,
+        "Infiltrator Irelia": 3
+      },
+      "condition": "w"
+    },
+    "Janna": {
+      "champion_id": "Janna",
+      "skins": {
+        "Default": 0,
+        "Tempest Janna": 1,
+        "Hextech Janna": 2
+      },
+      "condition": "w"
+    },
+    "Karma": {
+      "champion_id": "Karma",
+      "skins": {
+        "Default": 0,
+        "Sun Goddess Karma": 1,
+        "Sakura Karma": 2
+      },
+      "condition": "w"
+    },
+    "Kassadin": {
+      "champion_id": "Kassadin",
+      "skins": {
+        "Default": 0,
+        "Festival Kassadin": 1,
+        "Deep One Kassadin": 2,
+        "Pre-Void Kassadin": 3,
+        "Harbinger Kassadin": 4
+      },
+      "condition": "w"
+    },
+    "Kayle": {
+      "champion_id": "Kayle",
+      "skins": {
+        "Default": 0,
+        "Silver Kayle": 1,
+        "Viridian Kayle": 2,
+        "Unmasked Kayle": 3,
+        "Battleborn Kayle": 4,
+        "Judgment Kayle": 5
+      },
+      "condition": "w"
+    },
+    "Kennen": {
+      "champion_id": "Kennen",
+      "skins": {
+        "Default": 0,
+        "Deadly Kennen": 1,
+        "Swamp Master Kennen": 2,
+        "Karate Kennen": 3,
+        "Kennen M.D.": 4
+      },
+      "condition": "w"
+    },
+    "Kog'Maw": {
+      "champion_id": "KogMaw",
+      "skins": {
+        "Default": 0,
+        "Caterpillar Kog'Maw": 1,
+        "Sonoran Kog'Maw": 2,
+        "Monarch Kog'Maw": 3,
+        "Reindeer Kog'Maw": 4,
+        "Lion Dance Kog'Maw": 5,
+        "Deep Sea Kog'Maw": 6
+      },
+      "condition": "w"
+    },
+    "Leona": {
+      "champion_id": "Leona",
+      "skins": {
+        "Default": 0,
+        "Valkyrie Leona": 1,
+        "Defender Leona": 2
+      },
+      "condition": "w"
+    },
+    "Lux": {
+      "champion_id": "Lux",
+      "skins": {
+        "Default": 0,
+        "Sorceress Lux": 1,
+        "Spellthief Lux": 2,
+        "Commando Lux": 3
+      },
+      "condition": "w"
+    },
+    "Malzahar": {
+      "champion_id": "Malzahar",
+      "skins": {
+        "Default": 0,
+        "Vizier Malzahar": 1,
+        "Shadow Prince Malzahar": 2,
+        "Djinn Malzahar": 3,
+        "Overlord Malzahar": 4
+      },
+      "condition": "w"
+    },
+    "Maokai": {
+      "champion_id": "Maokai",
+      "skins": {
+        "Default": 0,
+        "Charred Maokai": 1,
+        "Totemic Maokai": 2
+      },
+      "condition": "w"
+    },
+    "Miss Fortune": {
+      "champion_id": "MissFortune",
+      "skins": {
+        "Default": 0,
+        "Cowgirl Miss Fortune": 1,
+        "Waterloo Miss Fortune": 2,
+        "Secret Agent Miss Fortune": 3,
+        "Candy Cane Miss Fortune": 4,
+        "Road Warrior Miss Fortune": 5
+      },
+      "condition": "w"
+    },
+    "Mordekaiser": {
+      "champion_id": "Mordekaiser",
+      "skins": {
+        "Default": 0,
+        "Dragon Knight Mordekaiser": 1,
+        "Infernal Mordekaiser": 2,
+        "Pentakill Mordekaiser": 3,
+        "Lord Mordekaiser": 4,
+        "Dark Crusader Mordekaiser": 5
+      },
+      "condition": "w"
+    },
+    "Morgana": {
+      "champion_id": "Morgana",
+      "skins": {
+        "Default": 0,
+        "Exiled Morgana": 1,
+        "Sinful Succulence Morgana": 2,
+        "Blade Mistress Morgana": 3
+      },
+      "condition": "w"
+    },
+    "Nunu & Willump": {
+      "champion_id": "Nunu",
+      "skins": {
+        "Default": 0,
+        "Sasquatch Nunu": 1,
+        "Workshop Nunu": 2,
+        "Grungy Nunu": 3,
+        "Nunu Bot": 4,
+        "Demolisher Nunu": 5
+      },
+      "condition": "w"
+    },
+    "Renekton": {
+      "champion_id": "Renekton",
+      "skins": {
+        "Default": 0,
+        "Galactic Renekton": 1,
+        "Outback Renekton": 2,
+        "Bloodfury Renekton": 3
+      },
+      "condition": "w"
+    },
+    "Ryze": {
+      "champion_id": "Ryze",
+      "skins": {
+        "Default": 0,
+        "Human Ryze": 1,
+        "Tribal Ryze": 2,
+        "Uncle Ryze": 3,
+        "Triumphant Ryze": 4,
+        "Professor Ryze": 5,
+        "Zombie Ryze": 6
+      },
+      "condition": "w"
+    },
+    "Shen": {
+      "champion_id": "Shen",
+      "skins": {
+        "Default": 0,
+        "Frozen Shen": 1,
+        "Yellow Jacket Shen": 2,
+        "Surgeon Shen": 3,
+        "Blood Moon Shen": 4
+      },
+      "condition": "w"
+    },
+    "Singed": {
+      "champion_id": "Singed",
+      "skins": {
+        "Default": 0,
+        "Riot Squad Singed": 1,
+        "Hextech Singed": 2,
+        "Surfer Singed": 3,
+        "Mad Scientist Singed": 4
+      },
+      "condition": "w"
+    },
+    "Sion": {
+      "champion_id": "Sion",
+      "skins": {
+        "Default": 0,
+        "Hextech Sion": 1,
+        "Barbarian Sion": 2,
+        "Lumberjack Sion": 3,
+        "Warmonger Sion": 4
+      },
+      "condition": "w"
+    },
+    "Sona": {
+      "champion_id": "Sona",
+      "skins": {
+        "Default": 0,
+        "Muse Sona": 1,
+        "Pentakill Sona": 2,
+        "Silent Night Sona": 3
+      },
+      "condition": "w"
+    },
+    "Soraka": {
+      "champion_id": "Soraka",
+      "skins": {
+        "Default": 0,
+        "Dryad Soraka": 1,
+        "Divine Soraka": 2
+      },
+      "condition": "w"
+    },
+    "Swain": {
+      "champion_id": "Swain",
+      "skins": {
+        "Default": 0,
+        "Northern Front Swain": 1,
+        "Bilgewater Swain": 2
+      },
+      "condition": "w"
+    },
+    "Talon": {
+      "champion_id": "Talon",
+      "skins": {
+        "Default": 0,
+        "Renegade Talon": 1,
+        "Crimson Elite Talon": 2
+      },
+      "condition": "w"
+    },
+    "Taric": {
+      "champion_id": "Taric",
+      "skins": {
+        "Default": 0,
+        "Emerald Taric": 1,
+        "Armor of the Fifth Age Taric": 2,
+        "Bloodstone Taric": 3
+      },
+      "condition": "w"
+    },
+    "Tristana": {
+      "champion_id": "Tristana",
+      "skins": {
+        "Default": 0,
+        "Riot Girl Tristana": 1,
+        "Earnest Elf Tristana": 2,
+        "Firefighter Tristana": 3,
+        "Guerilla Tristana": 4,
+        "Buccaneer Tristana": 5
+      },
+      "condition": "w"
+    },
+    "Trundle": {
+      "champion_id": "Trundle",
+      "skins": {
+        "Default": 0,
+        "Lil' Slugger Trundle": 1,
+        "Junkyard Trundle": 2
+      },
+      "condition": "w"
+    },
+    "Tryndamere": {
+      "champion_id": "Tryndamere",
+      "skins": {
+        "Default": 0,
+        "Highland Tryndamere": 1,
+        "King Tryndamere": 2,
+        "Viking Tryndamere": 3,
+        "Demonblade Tryndamere": 4
+      },
+      "condition": "w"
+    },
+    "Udyr": {
+      "champion_id": "Udyr",
+      "skins": {
+        "Default": 0,
+        "Black Belt Udyr": 1,
+        "Primal Udyr": 2
+      },
+      "condition": "w"
+    },
+    "Vladimir": {
+      "champion_id": "Vladimir",
+      "skins": {
+        "Default": 0,
+        "Count Vladimir": 1,
+        "Marquis Vladimir": 2,
+        "Nosferatu Vladimir": 3,
+        "Vandal Vladimir": 4
+      },
+      "condition": "w"
+    },
+    "Warwick": {
+      "champion_id": "Warwick",
+      "skins": {
+        "Default": 0,
+        "Grey Warwick": 1,
+        "Urf the Manatee": 2,
+        "Big Bad Warwick": 3,
+        "Tundra Hunter Warwick": 4,
+        "Feral Warwick": 5,
+        "Firefang Warwick": 6
+      },
+      "condition": "w"
+    },
+    "Xin Zhao": {
+      "champion_id": "XinZhao",
+      "skins": {
+        "Default": 0,
+        "Commando Xin Zhao": 1,
+        "Imperial Xin Zhao": 2,
+        "Viscero Xin Zhao": 3,
+        "Winged Hussar Xin Zhao": 4
+      },
+      "condition": "w"
+    },
+    "Yorick": {
+      "champion_id": "Yorick",
+      "skins": {
+        "Default": 0,
+        "Undertaker Yorick": 1,
+        "Pentakill Yorick": 2
+      },
+      "condition": "w"
+    },
+    "Zilean": {
+      "champion_id": "Zilean",
+      "skins": {
+        "Default": 0,
+        "Old Saint Zilean": 1,
+        "Groovy Zilean": 2,
+        "Shurima Desert Zilean": 3,
+        "Time Machine Zilean": 4
+      },
+      "condition": "w"
+    },
+    "Anivia": {
+      "champion_id": "Anivia",
+      "skins": {
+        "Default": 0,
+        "Team Spirit Anivia": 1,
+        "Bird of Prey Anivia": 2,
+        "Noxus Hunter Anivia": 3,
+        "Hextech Anivia": 4
+      },
+      "condition": "p"
+    },
+    "Ashe": {
+      "champion_id": "Ashe",
+      "skins": {
+        "Default": 0,
+        "Freljord Ashe": 1,
+        "Sherwood Forest Ashe": 2,
+        "Woad Ashe": 3,
+        "Queen Ashe": 4
+      },
+      "condition": "p"
+    },
+    "Dr. Mundo": {
+      "champion_id": "DrMundo",
+      "skins": {
+        "Default": 0,
+        "Toxic Dr. Mundo": 1,
+        "Mr. Mundoverse": 2,
+        "Corporate Mundo": 3,
+        "Mundo Mundo": 4,
+        "Executioner Mundo": 5
+      },
+      "condition": "p"
+    },
+    "Evelynn": {
+      "champion_id": "Evelynn",
+      "skins": {
+        "Default": 0,
+        "Shadow Evelynn": 1,
+        "Masquerade Evelynn": 2,
+        "Tango Evelynn": 3
+      },
+      "condition": "p"
+    },
+    "Gragas": {
+      "champion_id": "Gragas",
+      "skins": {
+        "Default": 0,
+        "Scuba Gragas": 1,
+        "Hillbilly Gragas": 2,
+        "Santa Gragas": 3,
+        "Gragas, Esq.": 4
+      },
+      "condition": "p"
+    },
+    "Heimerdinger": {
+      "champion_id": "Heimerdinger",
+      "skins": {
+        "Default": 0,
+        "Alien Invader Heimerdinger": 1,
+        "Blast Zone Heimerdinger": 2,
+        "Piltover Customs Heimerdinger": 3
+      },
+      "condition": "p"
+    },
+    "Jarvan IV": {
+      "champion_id": "JarvanIV",
+      "skins": {
+        "Default": 0,
+        "Commando Jarvan IV": 1,
+        "Dragon Slayer Jarvan IV": 2,
+        "Darkforge Jarvan IV": 3,
+        "Victorious Jarvan IV": 4
+      },
+      "condition": "p"
+    },
+    "Karthus": {
+      "champion_id": "Karthus",
+      "skins": {
+        "Default": 0,
+        "Phantom Karthus": 1,
+        "Statue of Karthus": 2,
+        "Grim Reaper Karthus": 3,
+        "Pentakill Karthus": 4
+      },
+      "condition": "p"
+    },
+    "Lee Sin": {
+      "champion_id": "LeeSin",
+      "skins": {
+        "Default": 0,
+        "Traditional Lee Sin": 1,
+        "Acolyte Lee Sin": 2
+      },
+      "condition": "p"
+    },
+    "Malphite": {
+      "champion_id": "Malphite",
+      "skins": {
+        "Default": 0,
+        "Shamrock Malphite": 1,
+        "Coral Reef Malphite": 2,
+        "Marble Malphite": 3,
+        "Obsidian Malphite": 4
+      },
+      "condition": "p"
+    },
+    "Master Yi": {
+      "champion_id": "MasterYi",
+      "skins": {
+        "Default": 0,
+        "Assassin Master Yi": 1,
+        "Chosen Master Yi": 2,
+        "Ionia Master Yi": 3,
+        "Samurai Yi": 4
+      },
+      "condition": "p"
+    },
+    "Nasus": {
+      "champion_id": "Nasus",
+      "skins": {
+        "Default": 0,
+        "Galactic Nasus": 1,
+        "Pharaoh Nasus": 2,
+        "Dreadknight Nasus": 3,
+        "Riot K-9 Nasus": 4
+      },
+      "condition": "p"
+    },
+    "Nidalee": {
+      "champion_id": "Nidalee",
+      "skins": {
+        "Default": 0,
+        "Snow Bunny Nidalee": 1,
+        "Leopard Nidalee": 2,
+        "French Maid Nidalee": 3,
+        "Pharaoh Nidalee": 4
+      },
+      "condition": "p"
+    },
+    "Nocturne": {
+      "champion_id": "Nocturne",
+      "skins": {
+        "Default": 0,
+        "Frozen Terror Nocturne": 1,
+        "Void Nocturne": 2,
+        "Ravager Nocturne": 3
+      },
+      "condition": "p"
+    },
+    "Olaf": {
+      "champion_id": "Olaf",
+      "skins": {
+        "Default": 0,
+        "Forsaken Olaf": 1,
+        "Glacial Olaf": 2,
+        "Brolaf": 3
+      },
+      "condition": "p"
+    },
+    "Pantheon": {
+      "champion_id": "Pantheon",
+      "skins": {
+        "Default": 0,
+        "Myrmidon Pantheon": 1,
+        "Ruthless Pantheon": 2,
+        "Perseus Pantheon": 3,
+        "Full Metal Pantheon": 4
+      },
+      "condition": "p"
+    },
+    "Rammus": {
+      "champion_id": "Rammus",
+      "skins": {
+        "Default": 0,
+        "King Rammus": 1,
+        "Chrome Rammus": 2,
+        "Molten Rammus": 3,
+        "Freljord Rammus": 4,
+        "Ninja Rammus": 5
+      },
+      "condition": "p"
+    },
+    "Rumble": {
+      "champion_id": "Rumble",
+      "skins": {
+        "Default": 0,
+        "Rumble in the Jungle": 1,
+        "Bilgerat Rumble": 2
+      },
+      "condition": "p"
+    },
+    "Skarner": {
+      "champion_id": "Skarner",
+      "skins": {
+        "Default": 0,
+        "Sandscourge Skarner": 1,
+        "Earthrune Skarner": 2
+      },
+      "condition": "p"
+    },
+    "Teemo": {
+      "champion_id": "Teemo",
+      "skins": {
+        "Default": 0,
+        "Happy Elf Teemo": 1,
+        "Recon Teemo": 2,
+        "Badger Teemo": 3,
+        "Astronaut Teemo": 4,
+        "Cottontail Teemo": 5,
+        "Super Teemo": 6
+      },
+      "condition": "p"
+    },
+    "Twisted Fate": {
+      "champion_id": "TwistedFate",
+      "skins": {
+        "Default": 0,
+        "PAX Twisted Fate": 1,
+        "Jack of Hearts": 2,
+        "The Magnificent Twisted Fate": 3,
+        "Tango Twisted Fate": 4,
+        "High Noon Twisted Fate": 5
+      },
+      "condition": "p"
+    },
+    "Twitch": {
+      "champion_id": "Twitch",
+      "skins": {
+        "Default": 0,
+        "Kingpin Twitch": 1,
+        "Whistler Village Twitch": 2,
+        "Medieval Twitch": 3,
+        "Gangster Twitch": 4,
+        "Vandal Twitch": 5
+      },
+      "condition": "p"
+    },
+    "Urgot": {
+      "champion_id": "Urgot",
+      "skins": {
+        "Default": 0,
+        "Giant Enemy Crabgot": 1,
+        "Butcher Urgot": 2
+      },
+      "condition": "p"
+    },
+    "Vayne": {
+      "champion_id": "Vayne",
+      "skins": {
+        "Default": 0,
+        "Vindicator Vayne": 1,
+        "Aristocrat Vayne": 2,
+        "Dragonslayer Vayne": 3
+      },
+      "condition": "p"
+    },
+    "Veigar": {
+      "champion_id": "Veigar",
+      "skins": {
+        "Default": 0,
+        "White Mage Veigar": 1,
+        "Curling Veigar": 2,
+        "Veigar Greybeard": 3,
+        "Leprechaun Veigar": 4,
+        "Baron Von Veigar": 5
+      },
+      "condition": "p"
+    },
+    "Xerath": {
+      "champion_id": "Xerath",
+      "skins": {
+        "Default": 0,
+        "Runeborn Xerath": 1,
+        "Battlecast Xerath": 2
+      },
+      "condition": "p"
+    },
+    "Cho'Gath": {
+      "champion_id": "ChoGath",
+      "skins": {
+        "Default": 0,
+        "Nightmare Cho'Gath": 1,
+        "Gentleman Cho'Gath": 2,
+        "Loch Ness Cho'Gath": 3
+      },
+      "condition": "b"
+    },
+    "Katarina": {
+      "champion_id": "Katarina",
+      "skins": {
+        "Default": 0,
+        "Mercenary Katarina": 1,
+        "Red Card Katarina": 2,
+        "Bilgewater Katarina": 3,
+        "Kitty Cat Katarina": 4,
+        "High Command Katarina": 5
+      },
+      "condition": "b"
+    },
+    "LeBlanc": {
+      "champion_id": "LeBlanc",
+      "skins": {
+        "Default": 0,
+        "Wicked LeBlanc": 1,
+        "Prestigious LeBlanc": 2
+      },
+      "condition": "b"
+    },
+    "Orianna": {
+      "champion_id": "Orianna",
+      "skins": {
+        "Default": 0,
+        "Gothic Orianna": 1,
+        "Sewn Chaos Orianna": 2
+      },
+      "condition": "b"
+    },
+    "Poppy": {
+      "champion_id": "Poppy",
+      "skins": {
+        "Default": 0,
+        "Noxus Poppy": 1,
+        "Lollipoppy": 2,
+        "Blacksmith Poppy": 3,
+        "Ragdoll Poppy": 4,
+        "Battle Regalia Poppy": 5
+      },
+      "condition": "b"
+    },
+    "Riven": {
+      "champion_id": "Riven",
+      "skins": {
+        "Default": 0,
+        "Redeemed Riven": 1,
+        "Crimson Elite Riven": 2
+      },
+      "condition": "b"
+    },
+    "Shaco": {
+      "champion_id": "Shaco",
+      "skins": {
+        "Default": 0,
+        "Mad Hatter Shaco": 1,
+        "Royal Shaco": 2,
+        "Nutcracko": 3,
+        "Workshop Shaco": 4
+      },
+      "condition": "b"
+    },
+    "Wukong": {
+      "champion_id": "MonkeyKing",
+      "skins": {
+        "Default": 0,
+        "Volcanic Wukong": 1,
+        "General Wukong": 2
+      },
+      "condition": "b"
+    },
+    "Jax": {
+      "champion_id": "Jax",
+      "skins": {
+        "Default": 0,
+        "The Mighty Jax": 1,
+        "Vandal Jax": 2,
+        "Angler Jax": 3,
+        "PAX Jax": 4,
+        "Jaximus": 5
+      },
+      "condition": "di"
+    },
+    "Sivir": {
+      "champion_id": "Sivir",
+      "skins": {
+        "Default": 0,
+        "Warrior Princess Sivir": 1,
+        "Spectacular Sivir": 2,
+        "Huntress Sivir": 3,
+        "Bandit Sivir": 4,
+        "PAX Sivir": 5
+      },
+      "condition": "di"
+    }
+  },
+  "spells": {
+    "Cleanse": {
+      "spell_id": "SummonerBoost",
+      "condition": "w"
+    },
+    "Clairvoyance": {
+      "spell_id": "SummonerClairvoyance",
+      "condition": "w"
+    },
+    "Ignite": {
+      "spell_id": "SummonerDot",
+      "condition": "w"
+    },
+    "Exhaust": {
+      "spell_id": "SummonerExhaust",
+      "condition": "w"
+    },
+    "Flash": {
+      "spell_id": "SummonerFlash",
+      "condition": "w"
+    },
+    "Fortify": {
+      "spell_id": "SummonerFortify",
+      "condition": "w"
+    },
+    "Ghost": {
+      "spell_id": "SummonerHaste",
+      "condition": "w"
+    },
+    "Heal": {
+      "spell_id": "SummonerHeal",
+      "condition": "w"
+    },
+    "Clarity": {
+      "spell_id": "SummonerMana",
+      "condition": "w"
+    },
+    "Rally": {
+      "spell_id": "SummonerRally",
+      "condition": "w"
+    },
+    "Revive": {
+      "spell_id": "SummonerRevive",
+      "condition": "w"
+    },
+    "Smite": {
+      "spell_id": "SummonerSmite",
+      "condition": "w"
+    },
+    "Teleport": {
+      "spell_id": "SummonerTeleport",
+      "condition": "w"
+    }
+  },
+  "teams": ["BLUE", "PURPLE"]
+}
