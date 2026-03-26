@@ -14,7 +14,7 @@ class PathsConfig:
             self.BASE_DIR = os.path.dirname(os.path.abspath(__file__))
             
         self.DATA_DIR = os.path.join(self.BASE_DIR, "data")
-        self.OUTPUT_DIR = os.path.join(self.BASE_DIR, "Fishbones_Data", "ChildrenOfTheGrave-Gameserver", "ChildrenOfTheGraveServerConsole", "bin", "Debug", "net9.0", "Settings")
+        self.OUTPUT_DIR = os.path.join(self.BASE_DIR, "Fishbones_Data", "ChildrenOfTheGrave-Gameserver", "ChildrenOfTheGraveServerConsole", "bin", "Debug", "net10.0", "Settings")
         self.TOOLS_DIR = os.path.join(self.BASE_DIR, "tools")
         
         # Δημιουργία φακέλων αν δεν υπάρχουν
